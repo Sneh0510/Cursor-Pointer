@@ -1,6 +1,4 @@
-==============================================
 #             Cursor-Wave
-==============================================
 
 A mini project using AI and ML to control the mouse cursor using hand gestures.
 
