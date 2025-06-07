@@ -1,10 +1,11 @@
 #             Cursor-Wave
+==============================================
 
 A mini project using AI and ML to control the mouse cursor using hand gestures.
 
 -------------------------------------------
 PROJECT DESCRIPTION
--------------------------------------------=
+-------------------------------------------
 
 Cursor-Wave is a gesture-controlled mouse built with Python. It uses computer vision and machine learning to detect hand movements through a webcam and translates them into mouse movements and clicks.
 
