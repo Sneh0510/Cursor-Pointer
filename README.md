@@ -41,16 +41,20 @@ SETUP & INSTALLATION
 -------------------------------------------
 
 1. Install Python 3.6 or above.
-2. Install the required libraries using pip:
-
+2. Clone or download the project folder.
+   ```
+   git clone
+   cd cursor-wave
+   ```
+4. Install the required libraries using pip:
+   ```
    pip install opencv-python mediapipe pyautogui numpy
-
-3. Clone or download the project folder.
-4. Run the script:
+   ```
+5. Run the script:
 
    python cursor_wave.py
 
-5. Use your hand in front of the webcam to control the mouse.
+6. Use your hand in front of the webcam to control the mouse.
 
    Press ESC to quit.
 
