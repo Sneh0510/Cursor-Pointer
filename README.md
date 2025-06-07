@@ -1,6 +1,4 @@
-===========================================
-             Cursor-Wave
-===========================================
+#             Cursor-Wave
 
 A mini project using AI and ML to control the mouse cursor using hand gestures.
 
@@ -43,7 +41,7 @@ SETUP & INSTALLATION
 1. Install Python 3.6 or above.
 2. Clone or download the project folder.
    ```
-   git clone
+   git clone https://github.com/Sneh0510/Cursor-Wave.git
    cd cursor-wave
    ```
 4. Install the required libraries using pip:
@@ -51,9 +49,9 @@ SETUP & INSTALLATION
    pip install opencv-python mediapipe pyautogui numpy
    ```
 5. Run the script:
-
+   ```
    python cursor_wave.py
-
+   ```
 6. Use your hand in front of the webcam to control the mouse.
 
    Press ESC to quit.
@@ -81,10 +79,4 @@ DEVELOPER
 -------------------------------------------
 
 Developed by Sneh Yadav  
-GitHub: https://github.com/yourusername
-
--------------------------------------------
-LICENSE
--------------------------------------------
-
-This project is licensed under the MIT License.
+GitHub: https://github.com/sneh0510
